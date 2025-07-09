@@ -58,7 +58,7 @@ PRODIGY_FS_01/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/PRODIGY_FS_01.git
+git clone https://github.com/SivasankariM24/PRODIGY_FS_01.git
 cd mern-auth-project
 ```
 
