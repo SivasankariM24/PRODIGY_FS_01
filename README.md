@@ -59,7 +59,7 @@ PRODIGY_FS_01/
 
 ```bash
 git clone https://github.com/SivasankariM24/PRODIGY_FS_01.git
-cd mern-auth-project
+cd PRODIGY_FS_01
 ```
 
 ---
