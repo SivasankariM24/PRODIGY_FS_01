@@ -58,8 +58,8 @@ PRODIGY_FS_01/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/SivasankariM24/PRODIGY_FS_01.git
-cd PRODIGY_FS_01
+git clone https://github.com/SivasankariM24/Mern_Auth_App.git
+cd Mern_Auth_App
 ```
 
 ---
